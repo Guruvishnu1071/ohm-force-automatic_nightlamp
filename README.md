@@ -53,13 +53,13 @@ This circuit addresses that inefficiency by incorporating a light detection mech
 
 # **RESULTS**
 
-\`![][image3]![][image4]
+\`![results](result1.jpeg)![results](result2.jpeg)
 
 &nbsp;
 
 # **DEMO**
 
-https://drive.google.com/file/d/1xYViuhGsAt1XboobROiZTpPMqTuAu5po/view?usp=sharing
+https://drive.google.com/file/d/1PFtrRF6wp3FIIysQjnOEL1E4PMygMo3Q/view?usp=sharing
 
 # **NOTES**
 
